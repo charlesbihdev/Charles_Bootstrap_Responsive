@@ -172,6 +172,10 @@ aside ul li:hover {
         text-align: center;
     }
     
+    #hideme {
+        display: none;
+    }
+    
     .card {
         margin-bottom: 15px;
         width: 120px; 
