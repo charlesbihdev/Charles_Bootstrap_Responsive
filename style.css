@@ -171,6 +171,12 @@ aside ul li:hover {
         grid-row: 1/-2;
         text-align: center;
     }
+    
+    .card {
+        margin-bottom: 15px;
+        width: 120px; 
+        height: 120px;
+    }
 
     .rows {
         display: grid;
